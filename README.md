@@ -1,7 +1,7 @@
 This is the documentation for Chia Hard Full Node Wallet, written by RSD Team of HYY Technology Co.,Ltd.
 
 # Chia Hard Full Node Wallet
-Chia Hard Full Node Wallet can sync to latest height. It makes you get full node wallet any time. And do not need long time syncing for full note when you want farming chia cions.
+Chia Hard Full Node Wallet havd synced to latest height. It help you get full node wallet anytime. And do not need long time syncing for full note when you want farming chia cions.
 
 # Hardware
 ![](Hardware.webp)
@@ -13,7 +13,7 @@ Chia Hard Full Node Wallet can sync to latest height. It makes you get full node
     - ![](chia.png)
 
 # Full Node Data
-
+Full node data packed with OS. Send mail to dennis@we-signage.com if need.
 
 # Contacts
 - Website: www.we-signage.com
