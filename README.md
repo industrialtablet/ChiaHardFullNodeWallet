@@ -14,6 +14,7 @@ Chia Hard Full Node Wallet can sync to latest height. It makes you get full node
 
 # Full Node Data
 
+
 # Contacts
 - Website: www.we-signage.com
 - https://we-signage.en.made-in-china.com/
