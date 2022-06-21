@@ -13,3 +13,10 @@ Chia Hard Full Node Wallet can sync to latest height. It makes you get full node
     - ![](chia.png)
 
 # Full Node Data
+
+# Contacts
+- Website: www.we-signage.com
+- https://we-signage.en.made-in-china.com/
+- E-mail: dennis@we-signage.com
+- MP/Whatsapp/Wechat: + 86 13349909990
+- Skype: solled686
